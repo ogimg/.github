@@ -21,11 +21,6 @@
 ## Visit: **[ogimg.art](https://ogimg.art)**
 
 ![UI Image](../snapshots/readme-1.png)
-![UI Image](../snapshots/readme-2.png)
-![UI Image](../snapshots/readme-3.png)
-![UI Image](../snapshots/readme-4.png)
-![UI Image](../snapshots/readme-5.png)
-![UI Image](../snapshots/readme-6.png)
 
 <details>
   <summary>More screenshots</summary>
@@ -42,7 +37,7 @@
 
 ### Contribute
 
-- **Repo**: `https://github.com/ogimg/ogimg`
+- **Repo**: [https://github.com/ogimg/ogimg](https://github.com/ogimg/ogimg)
 - **Issues/PRs**: welcome
 
 ### Built by
